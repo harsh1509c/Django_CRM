@@ -1,0 +1,7 @@
+MYSQL DB 
+user : root
+passwd : harsh1509
+
+SUPERUSER
+user : admin
+passwd : root123
